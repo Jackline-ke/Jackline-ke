@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackline Adhiambo</h1>
-<h3 align="center">Software Engineer with a strong background in UI/UX design,full stack development, and a solid foundation in Information Technology. With my expertise in IT, I bring a comprehensive understanding of the technical landscape and its applications in software development.</h3>
+<h3 align="center">A Frontend Developer with a strong background in UI/UX design and a solid foundation in Information Technology. With my expertise in IT, I bring a comprehensive understanding of the technical landscape and its applications in software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackline-ke&label=Profile%20views&color=0e75b6&style=flat" alt="jackline-ke" /> </p>
 
